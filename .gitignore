@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
 Documents/Articles
 Documents/PDMOTION-2
 Documents/pdMotions
+
 # C extensions
 *.so
 
